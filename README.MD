@@ -1,2 +1,2 @@
 # Screenshot Enhanced
-Write the functions after realize them!
+Write the functions after realizing them!
