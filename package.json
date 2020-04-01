@@ -1,0 +1,23 @@
+{
+  "name": "screenshot-enhanced",
+  "version": "0.0.1",
+  "description": "Try try try",
+  "main": "main.js",
+  "scripts": {
+    "test": "scr"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uu-box/screenshot-enhanced.git"
+  },
+  "keywords": [
+    "screenshot",
+    "ocr"
+  ],
+  "author": "ubox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uu-box/screenshot-enhanced/issues"
+  },
+  "homepage": "https://github.com/uu-box/screenshot-enhanced#readme"
+}
